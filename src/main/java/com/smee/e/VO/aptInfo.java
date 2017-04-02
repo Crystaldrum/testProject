@@ -1,14 +1,14 @@
 package com.smee.e.VO;
 
 public class aptInfo {
-	private String kaptAddr;
-	private String doroJuso;
-	private String codeHallNm;
-	private String kaptName;
-	private String kaptMparea_135;
-	private String kaptMparea_60;
-	private String kaptMparea_85;
-	private String kaptUsedate;
+	private String kaptAddr; // 법정동 주소
+	private String doroJuso; // 도로명 주소
+	private String codeHallNm; // 계단식 or 복도식
+	private String kaptName; // 아파트명
+	private String kaptMparea_135; // 41평형 세대수
+	private String kaptMparea_60; // 18평형 세대수
+	private String kaptMparea_85; // 25평형 세대수
+	private String kaptUsedate; // 사용일자
 	
 	public aptInfo() {
 		// TODO Auto-generated constructor stub
