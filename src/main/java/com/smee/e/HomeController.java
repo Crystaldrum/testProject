@@ -55,7 +55,8 @@ public class HomeController {
     public final static String GET_KEY4 = "It7hTbFaURgkgwAsaWlo9F27Uq4rMVfll%2BYT2hoW%2BgbqrsCIKSEi7XzejdQe6Q%2FnyWcJJG82EHNtO26BayebhA%3D%3D";
     public final static String GET_KEY5 = "xvqCf7tkTGQZ3W82UGq7LTVf09swWdh9ahkz%2BWe6EohVausaAx%2FnJta8kjBJU6lv521V3KU4cZgdyjCqrL0rVw%3D%3D";
     public final static String GET_KEY6 = "P0A6kob9lKrE3P7EPU%2BF0WLOsKloQi7iZSxlSZIpHvF2ljpECCnFqgh90uSMPzt2Pdk9U9I2KwJEt4lJQGXS6A%3D%3D";
-    
+    public final static String GET_KEY7 = "bkomOZtMIiCFnE5738mjIbiMLRTAWDxcAF7hQrAhB9UNIB3%2FfjfVqA6IcLmTaTx3grGZgYc3bAavc3BubwFGXQ%3D%3D";
+    public final static String GET_KEY8 = "e6zQRW5XSwELJXT8bt0LCJQLifhvHouTLsROwSa8Pg8J6FielHS0JZwglSUoSkNonrxWhEJUip0pdZDT9o%2BlVw%3D%3D";
     
     @Autowired
 	mapDao dao;
